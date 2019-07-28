@@ -1,11 +1,7 @@
-# Basic-Portfolio
+# Responsive-Portfolio
 
-To complete the assignment, I followed the example from the tutorial video.
+To complete the assignment,I added code I obtained via the internet.
 
-As part of the "bonus" homework, I added hover effects to the menu links in the navbar and a rollover for the contact form submit button.
+Seems to work.
 
-I greatly appreciate the assistance I recieved from Ron and Alan and Kemet, without which I would have floundered and turned in a mess.
-
-Please note: the reason the files are located in a folder called "new-portfolio" instead of the mandated "basic-portfolio" is due to my having a problem with git that I am going to need assistance with understanding.
-
-Thanks, dudes! 
+I'm astounded.
